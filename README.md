@@ -12,6 +12,14 @@ O sistema coleta **3 leituras de sensores** por vez (temperatura, radiação, ac
  
 ---
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/demo.gif" alt="IMORTAL-1 gerando o relatório completo das leituras" />
+</p>
+
+---
+
 ## ✨ Funcionalidades
  
 | Opção | Funcionalidade |
