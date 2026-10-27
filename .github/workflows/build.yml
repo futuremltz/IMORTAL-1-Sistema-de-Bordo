@@ -1,0 +1,19 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compilar
+        run: gcc -Wall -Wextra IMORTAL.c -o imortal -lm
+
+      - name: Teste rápido (3 leituras e sair)
+        run: printf '18.5\n12\n15.5\n0\n' | ./imortal | grep "Saindo do programa"

@@ -1,4 +1,9 @@
 # 🛰️ IMORTAL-1 — Sistema de Bordo
+
+<p>
+  <a href="https://github.com/futuremltz/IMORTAL-1-Sistema-de-Bordo/actions/workflows/build.yml"><img src="https://github.com/futuremltz/IMORTAL-1-Sistema-de-Bordo/actions/workflows/build.yml/badge.svg" alt="Build" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg" alt="Licença MIT" /></a>
+</p>
  
 Projeto desenvolvido como **Trabalho do Grau A** da disciplina de **Algoritmos e Programação: Fundamentos** da [UNISINOS](https://www.unisinos.br/) - 2026/1.
  
